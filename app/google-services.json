@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "975529220866",
+    "project_id": "do-list-app-17823",
+    "storage_bucket": "do-list-app-17823.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:975529220866:android:43b307bb1ee4828e70001b",
+        "android_client_info": {
+          "package_name": "com.example.dolistapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlOpKuJHP9hDDNLFdyfTF2XhSaF1aCNsQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
